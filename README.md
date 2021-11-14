@@ -21,7 +21,7 @@
 - [x] Birthday Reminder
 
 #### useState and Conditional Rendering
-- [ ] Tours
+- [x] Tours
 - [ ] Reviews
 
 
