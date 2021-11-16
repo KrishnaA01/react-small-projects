@@ -20,11 +20,13 @@
 ------------
 
 #### useState
-- [x] Birthday Reminder
+- [x] 1. Birthday Reminder
 
 #### useState and Conditional Rendering
-- [x] Tours
-- [ ] Reviews
+- [x] 2. Tours
+- [x] 3. Reviews
+- [ ] 4. Accordion
+- [ ] 5. Menu
 
 
 
