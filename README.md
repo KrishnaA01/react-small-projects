@@ -25,7 +25,7 @@
 #### useState and Conditional Rendering
 - [x] 2. Tours
 - [x] 3. Reviews
-- [ ] 4. Accordion
+- [x] 4. Accordion
 - [ ] 5. Menu
 
 
