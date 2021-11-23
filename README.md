@@ -26,7 +26,7 @@
 - [x] 2. Tours
 - [x] 3. Reviews
 - [x] 4. Accordion
-- [ ] 5. Menu
+- [x] 5. Menu
 
 
 
